@@ -5,11 +5,10 @@ end
 
 
 def shipping_manifest
-  the_manifest = {"whale bone corsets" => 5 , "oil paintings" => 3, "porcelain vases" => 2  }
+  the_manifest = {"porcelain vases" => 2 ,"whale bone corsets" => 5 , "oil paintings" => 3  }
 
-  
+  end
 
-end
 
 def retrieval
   shipping_manifest = {
